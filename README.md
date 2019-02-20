@@ -1,5 +1,10 @@
 # Shopify Batch Price Updater
 
+[![Build Status](https://travis-ci.org/HarttMediaCom/batch-price-updater.svg?branch=master)](https://travis-ci.org/HarttMediaCom/batch-price-updater)
+[![Go Report Card](https://goreportcard.com/badge/github.com/HarttMediaCom/batch-price-updater)](https://goreportcard.com/report/github.com/HarttMediaCom/batch-price-updater)
+[![GoDoc](https://godoc.org/github.com/HarttMediaCom/batch-price-updater?status.svg)](https://godoc.org/github.com/HarttMediaCom/batch-price-updater)
+[![License MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
+
 Batch update cost of items or product price by margin
 
 ## How it works
